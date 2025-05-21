@@ -1,4 +1,3 @@
-
 # Transmissor de Códigos RF
 
 **Descrição:** Este projeto implementa a lógica de transmissão de sinais de rádio frequência (RF) para integração com produtos que possuem essa tecnologia, utilizando a biblioteca `RCSwitch` e um microcontrolador Arduino.
